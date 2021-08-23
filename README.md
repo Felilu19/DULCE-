@@ -11,4 +11,3 @@
 > apt install ffmpeg && pkg install ffmpeg
 > apt install wget && pkg install wget
 
-⚡Si necesitas mas ayuda puedes contactarme :3 wa.me/+51995386439
