@@ -1,21 +1,22 @@
 <p align="center">
-<a href="https://github.com/FG98F"><img title="FG98" src="https://img.shields.io/badge/github-FG98F-orange.svg?style=social&logo=github"></a>
+<a href="https://github.com/Felilu19/DULCE"><img title="FG98" src="https://img.shields.io/badge/github-FG98F-orange.svg?style=social&logo=github"></a>
 </p>
 
-<a href="https://github.com/FG98F/followers"><img title="Followers" src="https://img.shields.io/github/followers/FG98F?label=Followers&style=social"></a>
-<a href="https://github.com/FG98F/fgbotv3/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/FG98F/fgbotv3?&style=social"></a>
-<a href="https://github.com/FG98F/fgbotv3/network/members"><img title="Fork" src="https://img.shields.io/github/forks/FG98F/fgbotv3?style=social"></a>
-<a href="https://github.com/FG98F/fgbotv3/watchers"><img title="Mirando" src="https://img.shields.io/github/watchers/FG98F/fgbotv3?label=Watching&style=social"></a>
-<a href="https://github.com/FG98F/fgbotv3/watchers"><img title="Contribuyente" src="https://img.shields.io/github/contributors/FG98F/fgbotv3?logo=github&style=social"></a>
+<a href="https://github.com/Felilu19/DULCE/followers"><img title="Followers" src="https://img.shields.io/github/followers/FG98F?label=Followers&style=social"></a>
+<a href="https://https://github.com/Felilu19/DULCE/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/FG98F/fgbotv3?&style=social"></a>
+<a href="https://github.com/Felilu19/DULCE
+/fgbotv3/network/members"><img title="Fork" src="https://img.shields.io/github/forks/FG98F/fgbotv3?style=social"></a>
+<a href="https://github.com/Felilu19/DULCE/fgbotv3/watchers"><img title="Mirando" src="https://img.shields.io/github/watchers/FG98F/fgbotv3?label=Watching&style=social"></a>
+<a href="https://github.com/Felilu19/DULCE/fgbotv3/watchers"><img title="Contribuyente" src="https://img.shields.io/github/contributors/FG98F/fgbotv3?logo=github&style=social"></a>
 </p>
 
 <p align="center">
-<a href="https://github.com/FG98F"><img title="Author" src="https://img.shields.io/badge/FG98-V3-orange?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/Felilu19/DULCE"><img title="Author" src="https://img.shields.io/badge/FG98-V3-orange?style=for-the-badge&logo=github"></a>
 </p>
 
 
 <p align="center">
-<a href="https://github.com/FG98F/fgbotv3"><img src="https://img.shields.io/github/repo-size/FG98F/fgbotv3?label=Peso%20repositorio&style=plastic"></a>
+<a href="https://github.com/Felilu19/DULCE/fgbotv3"><img src="https://img.shields.io/github/repo-size/FG98F/fgbotv3?label=Peso%20repositorio&style=plastic"></a>
 
 
 </p>
@@ -47,8 +48,8 @@ La instalación es bastante simple, siga los pasos a continuación en la Aplicac
 
 ```bash
 > pkg install git
-> git clone https://github.com/FG98F/fgbotv3
-> cd fgbotv3
+> git clone https://github.com/Felilu19/DULCE
+> cd DULCE
 > bash install.sh
 > npm start
 ```
@@ -59,19 +60,3 @@ después de salir del código QR en termux, lo escanea usando el número de What
 <details open="open">
   <summary>CONTACTOS</summary>
 
-### Prueba de Bot
-En caso de duda, antes de instalar fgbotv3, pruebe el bot aquí primero
-<p>
-<a href="https://chat.whatsapp.com/G5sXrkhJ0pb0Tu8nhWLaFK" target="blank"><img src="https://img.shields.io/badge/WhatsApp DyLux Bot-30302f?style=flat&logo=whatsapp" /></a>
-</p>
-
-### Mis Contactos
-Para obtener información más detallada, comuníquese conmigo a través de las redes sociales a continuación. :
-
-<p>
-<a href="http://wa.me/59172945992" target="blank"><img src="https://img.shields.io/badge/Whatsapp-30302f?style=flat&logo=whatsapp" /></a>
-<a href="http://www.instagram.com/fg98._/" target="blank"><img src="https://img.shields.io/badge/Instagram-30302f?style=flat&logo=instagram" /></a>
-<a href="https://m.facebook.com/fg98ff" target="blank"><img src="https://img.shields.io/badge/Facebook-30302f?style=flat&logo=facebook" /></a>
-</p>
-
-  </details>
